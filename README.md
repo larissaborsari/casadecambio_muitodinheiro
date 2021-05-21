@@ -16,8 +16,8 @@
 <br>
 <p>O próximo passo é preencher a data da operação, que deve ser preenchida no forma dia/mês/ano, por exemplo, 20/05/2020. Digite todos os números e todas as barras sem espaços!</p>
 <br>
-<p></p>
-<p></p>
+<p>No próximo passo, o programa irá exibir uma lista de moedas e suas cotações correspondentes em reais, e perguntar se você deseja cadastrar uma nova moeda (1) ou não (2), basta digitar o número 1 ou o número 2</p>
+<p>Digitando o número 1, você deverá responder em seguida quantas novas moedas você deseja cadastras. Suponhamos que você deseja adicionar as moedas JPY e CLP à lista, com as seguintes cotações: 0.049 e 0.0073, respectivamente. Para isso, será necessário adicionar 2 novas moedas à lista, então, responda a pergunta com o número 2!</p>
 <p></p>
 
 
