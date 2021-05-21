@@ -1,4 +1,4 @@
-<h1 align="center">Gerenciador de Operações - Casa de Câmbio Muito Dinheiroo</h1>
+<h1 align="center">Gerenciador de Operações - Casa de Câmbio Muito Dinheiro</h1>
 
 <h2>Descrição</h2>
 <p>Este repositório contém o gerenciador de operações da casa de câmbio Muito Dinheiro, que tem como objetivo facilitar a realização de atividades rotineiras e documentar operações.</p>
