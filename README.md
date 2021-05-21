@@ -30,16 +30,24 @@
 <br>
 <p>k) No próximo passo todas estas operações se repetem até que você cadastre tantos clientes quanto queira, para passar para a execução do relatório, basta digitar a opção 2!</p>
 <br>
-<p>CONTINUAR ... </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>l) Ao escolher a opção 2 na lista abaixo, você será direcionado para o relatório de operações</p>
+<p>1 - Novo Cadastro</p>
+<p>2 - Relatório</p>
+<p>m) No próximo passo, você terá a opção de digitar a letra R para gerar um relatório ou digitar a letra S para encerrar o programa, digite uma das letras (maiúscula ou minúscula e sem espaços) e pressione a tecla enter.</p>
+<br>
+<p>n) EM seguida, você deve escolher uma das opções a seguir para executar o filtro nas operações que foram realizadas durante a execução do programa, digitando o número correspondente na caixa de texto, sem espaços, e pressionando a tecla enter</p>
+<p>1 - Filtrar por nome</p>
+<p>2 - Filtrar por intervalo</p>
+<p>3 - Filtar por nome e intervalo</p>
+<br>
+<p>Se você digitar o número 1, deverá preencher a próxima caixa de texto com o nome do cliente que você procura, é recomendado digitar o nome sem acentuações,bem como feito no cadastro inicial (instrução (b)), para que você consiga filtrar com êxito.</p>
+<br>
+<p>Se você digitar o número 2, deverá preencher a data inicial e a data final do intervalo em que deseja filtrar suas operações, no mesmo formato das datas cadastradas, conforme a instrução (c) </p>
+<br>
+<p>Por fim, se você digitar o número três, deverá preencher tanto o nome do cliente, quanto o intervalo de datas, filtrando assim as operações que ocorreram em um determinado paríodo para um determinado cliente.</p>
+<br>
+<p>Após isso, o programa exibirá os resultados de acordo com o filtro aplicado, bem como os totais das operações realizadas e das taxas cobradas em forma de tabela.</p>
+
 
 
 
