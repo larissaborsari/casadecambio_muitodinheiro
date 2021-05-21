@@ -10,10 +10,12 @@
 <p>O primeiro passo é preencher o campo de texto com a opção desejada, isto é, escolher entre:</p>
 <p>1 - Novo Cadastro</p>
 <p>2 - Relatório</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>Neste primeiro momento basta escrever o número 1 ou o número 2 na caixa de texto, escrevendo o núemro 1 você inicia o cadastro do cliente e prossegue para a calculadora de conversões; escrevendo o número 2 você pula para a geração do relatório de operações, que só será últil pós cadastrar clientes!</p>
+<br>
+<p>Em seguida, você deve preencher o nome do cliente, de forma simples, sem acentuações, para facilitar sua busca dentro do relatório posteriormente, por exemplo, se o nome de seu cliente é João Paulo Silva, você pode simplesmente preencher o compo com: joao paulo silva</p>
+<br>
+<p>O próximo passo é preencher a data da operação, que deve ser preenchida no forma dia/mês/ano, por exemplo, 20/05/2020. Digite todos os números e todas as barras sem espaços!</p>
+<br>
 <p></p>
 <p></p>
 <p></p>
