@@ -35,7 +35,7 @@
 <p>2 - Relatório</p>
 <p>m) No próximo passo, você terá a opção de digitar a letra R para gerar um relatório ou digitar a letra S para encerrar o programa, digite uma das letras (maiúscula ou minúscula e sem espaços) e pressione a tecla enter.</p>
 <br>
-<p>n) EM seguida, você deve escolher uma das opções a seguir para executar o filtro nas operações que foram realizadas durante a execução do programa, digitando o número correspondente na caixa de texto, sem espaços, e pressionando a tecla enter</p>
+<p>n) Em seguida, você deve escolher uma das opções a seguir para executar o filtro nas operações que foram realizadas durante a execução do programa, digitando o número correspondente na caixa de texto, sem espaços, e pressionando a tecla enter</p>
 <p>1 - Filtrar por nome</p>
 <p>2 - Filtrar por intervalo</p>
 <p>3 - Filtar por nome e intervalo</p>
