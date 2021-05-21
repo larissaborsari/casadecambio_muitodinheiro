@@ -8,5 +8,6 @@
 <p>Para usar este gerenciador basta abrir o código exatamente como está descrito no arquivo gerenciador.py em um arquivo do Google Colaboratory, ou um Jupyter Notebook, podem ser usadar também IDEs instaladas na própria máquina como o PyCharm, o IDLE e qualquer outro de preferência do usuário. Basta executar o código e preencher os códigos conforme orientado pelo próprio programa, mas se mesmo assim ficou confuso, não se preocupe! Veja a descrição mais detalhada a seguir...</p>
 
 <p>O primeiro passo é preencher o campo de texto com a opção desejada, isto é, escolher entre:</p>
-![image](https://user-images.githubusercontent.com/81311347/119068847-591c9380-b9bb-11eb-8ecf-6ae2d9ce418f.png)
+<img src="![image](https://user-images.githubusercontent.com/81311347/119068953-8ec17c80-b9bb-11eb-95a4-285a0dd90cff.png)">
+
 
